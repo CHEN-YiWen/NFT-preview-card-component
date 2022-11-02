@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/CHEN-YiWen/NFT-preview-card-component)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://chen-yiwen.github.io/NFT-preview-card-component/)
 
 ## My process
 
